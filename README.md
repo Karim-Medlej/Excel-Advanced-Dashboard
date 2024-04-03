@@ -19,7 +19,7 @@ This concise summary captures all the steps I took to build this advanced Excel 
 11. **Updating the Pivot Table Data Source**: Ensured data remained up-to-date.
 12. **Building the Dashboard**: Assembled all components into a cohesive and informative dashboard.
 
-### This advanced Excel dashboard is now a powerful tool for data analysis and visualization! 📊
+### This advanced Excel dashboard is now a powerful tool for data analysis and visualization!
 
  <h1 align="center">
 <img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/esp.jpg" width="5%" height="5%">
@@ -42,4 +42,4 @@ Este resumen conciso captura todos los pasos que tomé para construir este dashb
 11. **Actualización de la fuente de datos de la tabla dinámica**: Me aseguré de que los datos estuvieran actualizados.
 12. **Creación del Dashboard**: Ensamblé todos los componentes en un salpicadero coherente e informativo.
 
-### ¡Este avanzado panel de Excel es ahora una poderosa herramienta para el análisis y visualización de datos! 📊
+### ¡Este avanzado panel de Excel es ahora una poderosa herramienta para el análisis y visualización de datos!
