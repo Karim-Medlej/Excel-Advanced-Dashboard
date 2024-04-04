@@ -2,7 +2,7 @@
 <img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/gb.jpg" width="5%" height="5%">
 </h1>
 
-<h1 align="center">Advanced Dashboard Creation Using Excel</h1>
+<h1 align="center">Advanced Interactive Dashboard Creation Using Excel</h1>
 
 This concise summary captures all the steps I took to build this advanced Excel dashboard:
 
@@ -25,7 +25,7 @@ This concise summary captures all the steps I took to build this advanced Excel 
 <img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/esp.jpg" width="5%" height="5%">
 </h1>
 
-<h1 align="center">Creación Avanzada de Dashboard usando Excel</h1>
+<h1 align="center">Creación Avanzada de Dashboard Interactivo usando Excel</h1>
 
 Este resumen conciso captura todos los pasos que tomé para construir este dashboard avanzado de Excel:
 
